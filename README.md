@@ -1,6 +1,6 @@
-# DevSikt Free
+# DevSikt Free Starter
 
-An HTML-first Tailwind UI starter for developer workspaces. Customize it by hand or with a coding agent—without adopting a frontend application framework.
+Try DevSikt's HTML-first Tailwind UI before buying Pro. Explore the source quality, components and customization workflow by hand or with a coding agent—without adopting a frontend application framework.
 
 ![DevSikt Free workspace with a searchable work queue and selected-item inspector](assets/workspace-preview.png)
 
@@ -24,6 +24,8 @@ Both are frontend UI themes. Neither provides real authentication, AI models, Gi
 
 ## Release in preparation
 
-This repository currently contains product information and a screenshot only. Source code, installation instructions, download archives, licence terms and hosted documentation will be added when approved. There is no published package to install yet.
+This is the public showcase and future download entry point, not an open-source code repository. It currently contains product information and a screenshot only. We plan to provide editable source in a Free Starter ZIP with its own licence, rather than publishing the source tree here. There is no published package to install yet.
+
+The intended model permits building personal, commercial and client projects, but not reselling or redistributing the theme itself as a template or starter kit. Exact permissions, including client handover, remain subject to finalized licence wording. This description is not a licence grant.
 
 Watch this repository for release updates. Public visibility does not grant permission to redistribute the preview image or imply a software licence. Pricing, support terms and release dates have not been announced.
